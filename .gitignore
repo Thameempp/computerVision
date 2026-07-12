@@ -221,3 +221,12 @@ __marimo__/
 
 
 requirements.txt
+
+# images captured
+captured_frames
+/captured_frames
+captured_frames/
+
+.cv
+.cv/
+/.cv
